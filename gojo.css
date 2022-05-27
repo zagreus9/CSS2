@@ -1,0 +1,64 @@
+.midoriya{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+.deku{
+    text-align: center;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.BAKUGO{
+    padding-top: 0px;
+    text-align: center;
+    margin: 0px;
+}
+.KİRİSHİMA{
+    text-align: center;
+}
+.EREN{
+    width: 1140px;
+    height: 75px;
+    margin: 0px;
+    position: relative;
+    text-align: center;
+    display: flex;
+}
+.JEAGER{
+    position: relative;
+    flex: 30%;
+    padding: 30px;
+    background-color: rgb(65, 226, 226);
+    vertical-align: middle;
+    border: 1px solid;
+    font-size: .3rem;
+    font-weight: 900;
+    margin-left: 92px;
+    height: auto;
+}
+.ARMİN{
+    position: relative;
+    flex: 20%;
+    padding: 30px;
+    background-color: rgb(65, 226, 226);
+    border: 1px solid;
+    font-size: .3rem;
+    font-weight: 900;
+    -webkit-text-size-adjust: auto;
+
+
+}
+.ARLETT{
+    position: relative;
+    flex: 40%;
+    padding: 35px;
+    background-color: rgb(93, 226, 226);
+    border: 1px solid;
+    font-size: .3em;
+    margin-right: 0px;
+    font-weight: 900;
+}
+.MİKASA{
+    text-align: center;
+}
